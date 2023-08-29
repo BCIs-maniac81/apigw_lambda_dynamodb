@@ -6,6 +6,7 @@ Advantages:
 * Never pay for idle.
 * Horizontal scaling.
 * More reliable.
+* 
 Components or resources:
 * DynamoDB database
 * Lambda Function
